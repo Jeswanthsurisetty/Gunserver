@@ -1,0 +1,14 @@
+{
+  "name": "gunserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeswanth",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "^0.2020.1239"
+  }
+}
